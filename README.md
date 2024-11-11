@@ -29,6 +29,7 @@ Este projeto foi proposto pelo professor **Nelio Alves** em seu bootcamp de **Ja
 
 - **Nome** não pode ser vazio.
 - **Data de nascimento** não pode ser uma data futura.
+- **CPF deve ser unico**.
 
 ## Modelo da Classe Client
 
