@@ -1,0 +1,10 @@
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Gustavo Meyer', '00801111101','1984-08-13', 1, 2500);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Maria Joaquina', '01001211101','1984-08-13', 3, 3000.50);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Chaves Mendes', '50001311101','1984-08-13', 0, 1250);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Eduardo Silva', '30001411101','1960-08-13', 2, 5000);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Raquel B.', '10001115101','1984-08-13', 0, 975);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Luiza Bitten', '03001111101','1999-08-13', 4, 12000);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Meyoncé Meyer', '00601111101','2018-08-13', 1, 1750);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Felipe Mello', '01001111101','1984-08-13', 0, 1000);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Anakin D', '66601111101','1984-08-13', 1, 374);
+INSERT INTO tb_clients (name, cpf, birth_date, children, income) VALUES ('Joyce S. Brit', '0001111101','1984-08-13', 2, 3200);

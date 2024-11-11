@@ -1,0 +1,4 @@
+package com.clientes.desafio.services.exceptions;
+
+public class DatabaseException {
+}
